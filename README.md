@@ -1,7 +1,7 @@
 # Arduino-Basics
 I have gathered these simple Arduino codes from different sources for students struggling to learn Arduino.
 
-# Contribution
+# Contributor
 Ayesha Rizwan,
 Electronic Engineer,
 NEDUET Pakistan.
